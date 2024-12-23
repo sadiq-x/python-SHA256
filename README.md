@@ -12,7 +12,7 @@ This script file is full open source.
 `SHA256`
 
 ### Python Library
-`hashlib`,
+`hashlib`
 
 ### Terminal Code
 ```
