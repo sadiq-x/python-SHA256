@@ -3,9 +3,9 @@
 A python script of SHA256 hashes printer.
 This is script file is a full open source.
 
-[^1] Download.
+[^1]: Download.
 
-[^2] Use directly. 
+[^2]: Use directly. 
 
 ### Hash:
 `SHA256`
