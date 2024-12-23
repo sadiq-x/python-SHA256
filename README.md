@@ -1,9 +1,11 @@
 ## python-SHA256
 
-A python script of SHA256 hashes printer. \n
+The python-SHA256 was created for help user of hash SHA256 in world of hash, a python script to print SHA256 hash. 
+
 This is script file is a full open source.
 
 `1. Download.`
+
 `2. Use directly.`
 
 ### Hash:
