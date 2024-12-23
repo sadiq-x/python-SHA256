@@ -1,10 +1,20 @@
+##python-SHA256
+
 A python script of SHA256 hashes printer.
 This is script file is a full open source.
 
-### Library: `hashlib`,
-### Hash: `SHA256`,
+[^1]: Download.
+[^2]: Use directly. 
 
-## Terminal Code
+###Hash:
+`SHA256`
+
+### Python Library
+`hashlib`,
+
+### Terminal Code
 ```
 python3 sha256.py
 ```
+
+
